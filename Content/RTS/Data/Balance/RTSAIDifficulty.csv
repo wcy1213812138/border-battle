@@ -1,0 +1,4 @@
+Name,DecisionInterval,WorkerTarget,ArmyTarget,AttackSize,FirstAttackSeconds,AttackInterval,ArcherFraction
+Easy,2,4,8,4,180,150,0.25
+Normal,1,6,12,6,120,100,0.4
+Hard,0.5,8,16,8,90,70,0.5
